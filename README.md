@@ -1,6 +1,6 @@
-# 📊 Task 5 — Student Performance Prediction
+# 📊 Task 6 — Student Performance Prediction
 
-This project is **Task 5** of my **Machine Learning Internship at InternGrow**.
+This project is **Task 6** of my **Machine Learning Internship at InternGrow**.
 The goal is to analyze student-related data and build a machine learning model to predict student performance.
 
 ## 🚀 Project Overview
@@ -62,7 +62,7 @@ Through this task, I gained practical experience in **data preprocessing, explor
 
 **Machine Learning Internship — InternGrow**
 
-This project was completed as **Task 5** of my internship.
+This project was completed as **Task 6** of my internship.
 
 ---
 
